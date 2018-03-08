@@ -1,0 +1,391 @@
+{
+	"shopname1" : {
+	    "shopsrc" : [ "bot1-1.png", "bot1-2.png","bot1-3.png","bot1-4.png","bot1-5.png","bot1-6.png","bot1-7.png","bot1-8.png"],
+		"htext" : [ "惠选套装", "唇部护理","卸妆","清洁","眼部护理","面膜","美容仪","面部精华","全部"],
+		 "leftsrc" : "tab1.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt1-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+		
+	},
+	"shopname2":{
+	    "shopsrc" : [ "bot2-1.png", "bot2-2.png","bot2-3.png","bot2-4.png","bot2-5.png","bot2-6.png","bot2-7.png","bot2-8.png"],
+		"htext" : [ "BobbiBrown全新上线", "宝石甲油限时买赠","杨幂同款红唇","迪奥传奇之红","纪梵希限量","王俊凯精选","全部"],
+		"leftsrc" : "tab2.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt2-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	},
+	"shopname3":{
+	    "shopsrc" : [ "bot3-1.png", "bot3-2.png","bot3-3.png","bot3-4.png","bot3-5.png","bot3-6.png","bot3-7.png","bot3-8.png"],
+		"htext" : [ "迪奥小姐香水", "宝格丽宾兰男士淡香水","莫杰10周年限量香水","阿玛尼限量香氛福袋","兰蔻奇迹香氛系列","LOEWE事后清晨","全部"],
+		"leftsrc" : "tab3.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt3-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	},
+	"shopname4":{
+	    "shopsrc" : [ "bot2-1.png", "bot2-2.png","bot2-3.png","bot2-4.png","bot2-5.png","bot2-6.png","bot2-7.png","bot2-8.png"],
+		"htext" : ["惠选套装",  "足部护理","胸部护理","手部护理","身体护理","沐浴清洁","惠选套装","全部"],
+		"leftsrc" : "tab4.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt4-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	},"shopname5":{
+	    "shopsrc" : [ "bot2-1.png", "bot2-2.png","bot2-3.png","bot2-4.png","bot2-5.png","bot2-6.png","bot2-7.png","bot2-8.png"],
+		"htext" : [ "惠选套装", "眼部护理","剃须护理","滋养紧致","保湿水润","控油平衡","全部"],
+		"leftsrc" : "tab5.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt5-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	},
+	"shopname6":{
+	    "shopsrc" : [ "bot2-1.png", "bot2-2.png","bot2-3.png","bot2-4.png","bot2-5.png","bot2-6.png","bot2-7.png","bot2-8.png"],
+		"htext" : [ "惠选套装", "美发产品","头皮护理","护发产品","洗发产品","美发工具","全部"],
+		"leftsrc" : "tab6.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt6-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	},
+	"shopname7":{
+	    "shopsrc" : [ "bot2-1.png", "bot2-2.png","bot2-3.png","bot2-4.png","bot2-5.png","bot2-6.png","bot2-7.png","bot2-8.png"],
+		"htext" : [ "玫瑰金恋爱物语礼盒", "美妆萌萌蛋","化妆刷套组","眼影刷","美妆蛋礼盒","限量粉色网红刷","全部"],
+		"leftsrc" : "tab7.jpg",
+		"list" : [
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-1.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-2.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-3.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-4.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-5.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-6.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-7.jpg",
+				"price" : "￥760.00"
+			},
+			{
+				"id" : "LANCOME",
+				"name" : "兰蔻新精华基底液节日尊享会员价",
+				"src" : "nt7-8.jpg",
+				"price" : "￥760.00"
+			}
+		]
+	}
+	
+
+	
+	
+}

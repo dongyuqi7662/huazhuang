@@ -1,0 +1,198 @@
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,input{margin:0;padding:0}
+article, aside, canvas, details, figcaption, figure,footer, header, hgroup, menu, nav, section, summary{ display: block;} 
+body{font-family: "微软雅黑";}
+ul,ol,li{list-style:none;}
+b,strong{font-weight:100;}
+em,i{font-style:normal;}
+h1,h2,h3,h4,h5,h6{font-weight:100;font-size:16px;}
+a,u{text-decoration: none;}
+input{outline:none;}
+img{display:block;border:0;}
+
+
+/*bigw----最上边*/
+.bigw{
+	width: 100%;
+	height: 100%;
+}
+.navw{
+	width: 100%;
+	height:89px;
+}
+.nav{
+	width: 1190px;
+	height: 89px;
+	margin: 0 auto;
+}
+.nav-left{
+	float: left;
+}
+.nav-left img{
+  float: left;
+	margin-top: 28px;
+	cursor: pointer;
+}
+.nav-left span{	
+    display: block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #333;
+    margin: 45px 0 0 30px;
+    float: left;
+}
+.nav-right{
+	float: right;
+	margin-top: 30px;	
+	font-size: 12px;
+	line-height: 16px;
+}
+.nav-right span{
+	color: #9d9d9d;	
+}
+.chancolor a{
+	color: #333;	
+}
+.chancolor a:hover{
+	color: #f00;
+	text-decoration: underline;	
+}
+
+/*banner 中间部分*/
+
+.bannerw{
+	width: 100%;
+	height: 804px;
+	background: url(../img/lt/zhuce.jpg) no-repeat;
+	background-position: -260px 0;
+}
+.banner{
+	width: 1190px;
+	height: 500px;
+	margin: 0 auto;
+/*	background: #CC0000;*/
+	overflow: hidden;
+}
+.bannerinpt{
+
+	width: 730px;
+	height: 390px;
+	margin: 50px 0 0 40px;
+/*	background: #CC0f90;*/
+/*	display: none;*/
+}
+.bannerinpt1 p{
+    font-size: 14px;
+    float: left;
+    width: 100px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 10px;
+    text-align: center;
+    
+}
+.inputs input{
+	width: 298px;
+    border: 0;
+	border: 1px solid #ccc;
+    height: 30px;
+    float: left;    
+    text-indent: 20px;
+    font-size: 14px;
+    color: #9a9898;
+}
+.oIMG{
+	display: inline-block;
+	width: 120px;
+    height: 32px;
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 28px;
+    text-align: center;
+    line-height: 32px;
+    background: url(../img/1.png);
+    
+}
+.kg{
+	width: 620px;
+	height: 34px;
+	margin-left:110px;
+	float: left;
+}
+/*获取验证码*/
+.inptbut input{
+	height: 32px;
+	background: #ccc;
+    color: #fff;
+    width: 120px;
+    margin-left: 10px;
+    float: left;
+    border: 0;
+}
+/*登录按钮----*/
+.banersub input{
+	margin-left: 110px;
+    width: 300px;
+    height: 30px;
+    line-height: 30px;
+    background-color: #999;
+    color: #fff;
+    float: left;
+    font-size: 14px;
+    border: 0;
+    text-align: center;
+	
+}
+.chancolor{
+	font-size: 12px;
+	line-height: 30px;
+}
+/*使用邮箱注册*/
+.bannerinpt2{
+	width: 730px;
+	height: 390px;
+	margin: 50px 0 0 40px;
+/*	background: #CC0f90;*/
+	display: none;
+}
+
+/*下边----------------------*/
+.floorw{
+	width: 100%;
+	height: 102px;
+	background: #000;
+}
+.floor{
+	width: 1190px;
+	height: 102px;
+	background: #f09;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.floors{
+	width: 1190px;
+	height: 42px;
+	background: #f0f;
+	margin:30px 0;
+	text-align: center;
+	font-size: 12px;
+	color: #6f6f6f;
+	line-height: 21px;
+}
+.flofont{
+	width: 760px;
+	margin-left:150px;
+	float: left;
+}
+.flofont img{
+	display: inline-block;
+}
+.flofont a{
+	color: #6f6f6f;
+	margin: 0 22px;
+}
+
+/*iinput 鼠标滑过下边框出现*/
+.borderbot:hover{
+	border-bottom: 1px solid #333;
+}

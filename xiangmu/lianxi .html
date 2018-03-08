@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script src = "js/jquery-1.11.1.min.js"></script>
+	</head>
+	<body>
+	</body>
+</html>
+<script>
+	var obj={
+		"rows":[["lis","16","female"],["jack","18","male"]],
+		"metdata":[{"name":"name","note":""},{"name":"age","note":""},{"name":"gender","note":""}]
+	}
+
+	function getdata(data){
+		var dataarr=[];
+		$.each(data.rows,function(i,opt){
+			var thisobj={};
+			$.each(opt,function(i){
+				thisobj[data.metdata[i].name]=this;
+			});
+			dataarr.push(thisobj);
+		})
+		return dataarr;
+	}
+	console.log(getdata(obj));
+
+</script>
